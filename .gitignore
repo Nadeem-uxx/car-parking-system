@@ -1,0 +1,12 @@
+# Compiled output
+out/
+*.class
+
+# Runtime data (your saved parking records)
+data/*.csv
+
+# IDE files
+.idea/
+.vscode/
+*.iml
+.DS_Store
